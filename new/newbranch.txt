@@ -3,4 +3,8 @@ New Branch
 
 
 
+<<<<<<< HEAD
 Hello
+=======
+change for see commit in new dev
+>>>>>>> newDev
